@@ -1,0 +1,89 @@
+Times: 1 | Found SYMPOSIUM: Symposium
+Times: 1 | Found Signals: :
+Times: 1 | Found Spaces
+Times: 1 | Found Year: 2022
+Times: 2 | Found Spaces
+Times: 3 | Found Spaces
+Times: 4 | Found Spaces
+Times: 2 | Found Signals: [
+Times: 1 | Found ID: Analgesico
+Times: 3 | Found Signals: ,
+Times: 2 | Found ID: Antibiotico
+Times: 4 | Found Signals: ]
+Times: 5 | Found Spaces
+Times: 6 | Found Spaces
+Times: 7 | Found Spaces
+Times: 5 | Found Signals: [
+Times: 8 | Found Spaces
+Times: 9 | Found Spaces
+Times: 10 | Found Spaces
+Times: 11 | Found Spaces
+Commentary: /- Medicamento 1 -/
+Times: 12 | Found Spaces
+Times: 13 | Found Spaces
+Times: 14 | Found Spaces
+Times: 6 | Found Signals: (
+Times: 3 | Found ID: Moment
+Times: 7 | Found Signals: ,
+Times: 1 | Found Integer: 1
+Times: 8 | Found Signals: ,
+Times: 4 | Found ID: Analgesico
+Times: 9 | Found Signals: ,
+Times: 5 | Found ID: Paracetamol
+Times: 10 | Found Signals: ,
+Times: 1 | Found Float: 4.500000
+Times: 11 | Found Signals: ,
+Times: 12 | Found Signals: {
+Times: 6 | Found ID: Roche
+Times: 13 | Found Signals: }
+Times: 14 | Found Signals: ,
+Times: 15 | Found Signals: {
+Times: 7 | Found ID: Qualquer
+Times: 16 | Found Signals: -
+Times: 8 | Found ID: Bial
+Times: 17 | Found Signals: }
+Times: 18 | Found Signals: )
+Times: 19 | Found Signals: ;
+Times: 15 | Found Spaces
+Times: 16 | Found Spaces
+Times: 17 | Found Spaces
+Times: 18 | Found Spaces
+Times: 19 | Found Spaces
+Commentary: /- Medicamento 2 -/
+Times: 20 | Found Spaces
+Times: 21 | Found Spaces
+Times: 22 | Found Spaces
+Times: 20 | Found Signals: (
+Times: 9 | Found ID: Antigripine
+Times: 21 | Found Signals: ,
+Times: 2 | Found Integer: 2
+Times: 22 | Found Signals: ,
+Times: 10 | Found ID: Antibiotico
+Times: 23 | Found Signals: ,
+Times: 11 | Found ID: Acetalilico
+Times: 24 | Found Signals: ,
+Times: 2 | Found Float: 6.000000
+Times: 25 | Found Signals: ,
+Times: 26 | Found Signals: {
+Times: 12 | Found ID: Fabt
+Times: 27 | Found Signals: ,
+Times: 13 | Found ID: Faba
+Times: 28 | Found Signals: }
+Times: 29 | Found Signals: ,
+Times: 30 | Found Signals: {
+Times: 14 | Found ID: Aga
+Times: 31 | Found Signals: -
+Times: 15 | Found ID: Fabc
+Times: 32 | Found Signals: ,
+Times: 16 | Found ID: Agb
+Times: 33 | Found Signals: -
+Times: 17 | Found ID: Fabh
+Times: 34 | Found Signals: }
+Times: 35 | Found Signals: )
+Times: 23 | Found Spaces
+Times: 24 | Found Spaces
+Times: 25 | Found Spaces
+Times: 36 | Found Signals: ]
+Times: 26 | Found Spaces
+
+PARSING SUCCESS!

@@ -1,0 +1,7 @@
+Symposium: 2021
+		[Analgesico,Antibiotico]
+		[
+		 (Moment,1,Analgesico,Paracetamol,4.5,{Roche},{Qualquer-Bial});
+
+		(Antigripine,2,Antibiotico,Acetalilico,6.,{Fabt,Faba},{Aga-Fabc,Agb-Fabh})  
+		]
