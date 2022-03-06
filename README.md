@@ -96,7 +96,7 @@ Project Link: [https://github.com/Surpr1se0/PharmacyAnuary](https://github.com/S
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* This project was done in colaboration with my collegues. Please, check out they're GitHub, and the Report for more!
+* This project was done in colaboration with my collegues. Please, check out their GitHub, and the Report for more!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
